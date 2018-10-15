@@ -1,6 +1,6 @@
 FROM beevelop/java
 
-MAINTAINER linc2046 <linc2046@gmail.com>
+MAINTAINER linc2046
 
 # Gradle
 ENV GRADLE_VERSION 3.3
